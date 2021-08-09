@@ -8,7 +8,7 @@ Nomral NPM Installation.
 #### Usage
 ```javascript
 // Import from NPM.
-import SimpleJSON from '@leemcdonald-au/simplerequest'
+import SimpleJSON from '@leemcdonald-au/simplejson'
 
 // Create some test data.
 const obj   = { "a": "b", "c": "d" }
