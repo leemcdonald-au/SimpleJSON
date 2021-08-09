@@ -1,0 +1,25 @@
+{
+  "name": "@leemcdonald-au/simplejson",
+  "version": "1.0.0",
+  "description": "Handle JSON without crashing on failed parses etc.",
+  "main": "src/SimpleJSON.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "node",
+    "js",
+    "json"
+  ],
+  "author": "Lee McDonald",
+  "license": "MIT",
+  "type": "module",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/leemcdonald-au/SimpleJSON.git"
+  },
+  "bugs": {
+    "url": "https://github.com/leemcdonald-au/SimpleJSON/issues"
+  },
+  "homepage": "https://github.com/leemcdonald-au/SimpleJSON#readme"
+}
